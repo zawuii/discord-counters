@@ -25,4 +25,4 @@ async def on_message(message):
     except discord.errors.Forbidden:
         return
 
-client.run('Nzk2MTA5MDMxMTg0NzkzNjQw.X_TIUA.fdmLU5ed9ldGmYL0zWXDBC4bjCU')
+client.run('INSERT TOKEN HERE')
